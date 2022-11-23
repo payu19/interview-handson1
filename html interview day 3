@@ -1,0 +1,48 @@
+<!-- How will we add Image? -->
+<!-- Absolute Path -->
+<!-- <img src="https://image/copy" alt="Error!"> -->
+<!-- Relative Path -->
+<!-- <img src="./assests/image/alok.png" alt="Error!"> -->
+
+<!-- Create a form contain input feilds like name, age, email and contact? -->
+<form action="">
+    <label for="fname">Name:</label>
+    <input type="text" name="fname" value="" placeholder="Please Enter Name" id="fname" required>
+    <br><br>
+    <label for="age">Age:</label>
+    <input type="number" name="age" value="" id="age" placeholder="enter your age" required>
+    <br><br>
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" placeholder="Enter youe Email" required>
+    <br><br>
+    <label for="contact">Contact :</label>
+    <input type="tel" name="contact" id="contact" value="" placeholder="enter your contact" required>
+    <br><br>
+    <input type="submit" value="Submit">
+
+</form>
+
+
+
+<!-- Table -->
+
+<table border="1" >
+    <tr>
+        <th>Name</th>
+        <th colspan="2">Designation</th>
+    </tr>
+    <tr>
+        <td rowspan="2">Rohan</td>
+        <td>Full Stack</td>
+        <td>Frontened</td>
+    </tr>
+    <tr>
+        <td>Abhimanyu</td>
+        <td>Frontened</td>
+        <td>Backned</td>
+    </tr>
+</table>
+
+
+
+

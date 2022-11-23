@@ -1,0 +1,72 @@
+<!-- Difference between HTML tag and elements -->
+<!-- <h1></h1>
+<h1>Content</h1> -->
+<!-- <img src="" alt=""> -->
+
+<!-- What is br -->
+<!-- It is stand for line break, It is used to extend a line, It should not be used in the web page because it is not a good practice. -->
+
+<!-- How many types of list in HTML? -->
+<!-- We have three types of list in HTML. they are as follow -->
+<!-- Ordered  List, Unordered List, Description List -->
+<!-- <ol type="">
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+</ol>
+<ul type="circle, disc(default), square, none">
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+</ul>
+<dl>
+    <dt>
+        <dd></dd>
+    </dt>
+</dl> -->
+
+
+<!-- What are semantic tag? -->
+<!-- Semantics tag are the tag which tells about itself to the browser and developer, It helps in SEO(Search Engine Optimization) -->
+<!-- Examples: <header></header>, <nav></nav>, <table></table>, <form></form>,<footer></footer> -->
+
+
+<!-- Create a order list in roman number? -->
+<!-- <ol type="I, i" reversed start="10">
+    <li>BMW</li>
+    <li>Ferrari</li>
+    <li>Alto</li>
+    <li>Swift</li>
+    <li>Creata</li>
+</ol> -->
+
+
+<!-- Create a unorder list with circle? -->
+<!-- <ul type="circle">
+    <li>BMW</li>
+    <li>Ferrari</li>
+    <li>Alto</li>
+    <li>Swift</li>
+    <li>Creata</li>
+</ul> -->
+
+
+<!-- Write a code to create a link with https://  -->
+<!-- <a href="https://prepbyte.com" target="_blank">PrepBytes</a> -->
+
+
+
+<!-- How will we add Image? -->
+<!-- Absolute Path -->
+<!-- <img src="https://image/copy" alt="Error!"> -->
+<!-- Relative Path -->
+<!-- <img src="./assests/image/alok.png" alt="Error!"> -->
+
+
+
+
+
