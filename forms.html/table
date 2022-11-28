@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>css class 1</title>
+        <link rel="stylesheet" href="./style.css"/>
+    </head>
+   <style>
+    
+    
+      h1{
+        color:blue
+        font-size: 45px;
+
+      }
+      /* selector{property: value;}*/
+   </style>
+</head>
+<body>
+    <h1 style="color: red">this is css</h1>
+    <h1>this is css 2</h1>
+</body>
+
+
